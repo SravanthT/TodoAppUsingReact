@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.input-ele {
+  max-width: 55%;
+  height: 2.5em;
+  font-size: 1em;
+}
+Button {
+  margin-left: 10px;
+  padding: 5px;
+  height: 2.5em;
+}
+.icons {
+  display: inline-block;
+  font-size: 2.5em;
+  padding-left: 0.5em;
+}
+.delete-icon {
+  padding-right: 5px;
+}
+.addthis {
+  display: inline-block;
+  width: 55%;
+  height: 2em;
+  background-color: grey;
+}
